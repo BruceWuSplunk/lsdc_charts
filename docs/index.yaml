@@ -2,29 +2,38 @@ apiVersion: v1
 entries:
   lsdc-chart1:
   - apiVersion: v1
-    created: 2016-12-11T17:02:55.113155348+08:00
+    created: 2016-12-11T17:48:14.313210569+08:00
     description: A Helm chart for Kubernetes
     digest: 69574f432b861c35a173b00ab7d03a7cb131172e0edc37933b1d801a1803e5ca
     name: lsdc-chart1
     urls:
-    - https://brucewusplunk.github.io/lsdc_charts/lsdc-chart1-0.1.0.tgz
+    - lsdc-chart1-0.1.0.tgz
     version: 0.1.0
   lsdc-chart2:
   - apiVersion: v1
-    created: 2016-12-11T17:02:55.113334288+08:00
+    created: 2016-12-11T17:48:14.313386352+08:00
     description: A Helm chart for Kubernetes
     digest: 02df0c28d409672d671d293d028eb817ebc43adf3b002cc5549bbfe63cbf3a72
     name: lsdc-chart2
     urls:
-    - https://brucewusplunk.github.io/lsdc_charts/lsdc-chart2-0.1.0.tgz
+    - lsdc-chart2-0.1.0.tgz
     version: 0.1.0
   lsdc-chart3:
   - apiVersion: v1
-    created: 2016-12-11T17:02:55.113510624+08:00
+    created: 2016-12-11T17:48:14.313541337+08:00
     description: A Helm chart for Kubernetes
     digest: aae3d869a1761e50477ba9366887da852a2e842483b24e6d75c682138e56636b
     name: lsdc-chart3
     urls:
-    - https://brucewusplunk.github.io/lsdc_charts/lsdc-chart3-0.1.0.tgz
+    - lsdc-chart3-0.1.0.tgz
     version: 0.1.0
-generated: 2016-12-11T17:02:55.112705028+08:00
+  state_store_service:
+  - apiVersion: v1
+    created: 2016-12-11T17:48:14.287681351+08:00
+    description: A Helm chart for Kubernetes
+    digest: 847de4e3723ad912b1c5cfa68ae19b0b579adae3c49a57637078efc79c303e6d
+    name: state_store_service
+    urls:
+    - https://brucewusplunk.github.io/lsdc_charts/state_store_service-0.1.0.tgz
+    version: 0.1.0
+generated: 2016-12-11T17:48:14.312847403+08:00
