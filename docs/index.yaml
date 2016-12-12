@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   lsdc-chart1:
   - apiVersion: v1
-    created: 2016-12-12T08:47:36.215745493+08:00
+    created: 2016-12-12T09:03:27.97828083+08:00
     description: A Helm chart for Kubernetes
     digest: 69574f432b861c35a173b00ab7d03a7cb131172e0edc37933b1d801a1803e5ca
     name: lsdc-chart1
@@ -11,7 +11,7 @@ entries:
     version: 0.1.0
   lsdc-chart2:
   - apiVersion: v1
-    created: 2016-12-12T08:47:36.216074258+08:00
+    created: 2016-12-12T09:03:27.978452564+08:00
     description: A Helm chart for Kubernetes
     digest: 02df0c28d409672d671d293d028eb817ebc43adf3b002cc5549bbfe63cbf3a72
     name: lsdc-chart2
@@ -20,7 +20,7 @@ entries:
     version: 0.1.0
   lsdc-chart3:
   - apiVersion: v1
-    created: 2016-12-12T08:47:36.216403422+08:00
+    created: 2016-12-12T09:03:27.978613857+08:00
     description: A Helm chart for Kubernetes
     digest: aae3d869a1761e50477ba9366887da852a2e842483b24e6d75c682138e56636b
     name: lsdc-chart3
@@ -29,7 +29,15 @@ entries:
     version: 0.1.0
   mychart:
   - apiVersion: v1
-    created: 2016-12-12T08:47:36.216522053+08:00
+    created: 2016-12-12T09:03:27.978848926+08:00
+    description: A Helm chart for Kubernetes
+    digest: b5768a6e9e938d2fcae166cf283f00a2d1cac27ca89374f9d9669d51042ae2fd
+    name: mychart
+    urls:
+    - mychart-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v1
+    created: 2016-12-12T09:03:27.978729719+08:00
     description: A Helm chart for Kubernetes
     digest: 9a37942c4f1935240310bc7bfeb396633f36e68c4ac5dce9a7099a510010cf6b
     name: mychart
@@ -38,11 +46,11 @@ entries:
     version: 0.1.0
   state_store_service:
   - apiVersion: v1
-    created: 2016-12-12T08:47:36.216814076+08:00
+    created: 2016-12-12T09:03:27.978970687+08:00
     description: A Helm chart for Kubernetes
     digest: 847de4e3723ad912b1c5cfa68ae19b0b579adae3c49a57637078efc79c303e6d
     name: state_store_service
     urls:
     - state_store_service-0.1.0.tgz
     version: 0.1.0
-generated: 2016-12-12T08:47:36.215119843+08:00
+generated: 2016-12-12T09:03:27.977612332+08:00
